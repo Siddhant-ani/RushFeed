@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RushFeed/static/css/main.31d6cfe0.css",
+    "main.js": "/RushFeed/static/js/main.ffebd887.js",
+    "static/js/488.d01864fa.chunk.js": "/RushFeed/static/js/488.d01864fa.chunk.js",
+    "static/media/loading.gif": "/RushFeed/static/media/loading.627eabaef64f3a1bcbf6.gif",
+    "index.html": "/RushFeed/index.html",
+    "main.ffebd887.js.map": "/RushFeed/static/js/main.ffebd887.js.map",
+    "488.d01864fa.chunk.js.map": "/RushFeed/static/js/488.d01864fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ffebd887.js"
+  ]
+}
