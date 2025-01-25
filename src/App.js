@@ -15,7 +15,7 @@ const App = ()=> {
 
         return (
             <div>
-                <Router>
+                <Router basename="/RushFeed">
                     <NavBar />
                     <LoadingBar
                     height={3}
